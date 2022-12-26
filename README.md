@@ -1,1 +1,1 @@
-# tip-calculator
+# html-css-js-project-boilerplate
